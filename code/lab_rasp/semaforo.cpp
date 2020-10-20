@@ -23,9 +23,9 @@ const int red = 0;
 const int yellow = 2;
 const int green = 3;
 const int timeoutMs = 1000; //1 second 
-const int time1S = 5; // 5 second
-const int time2S = 5; // 5 second
-const int time3S = 3; // 3 second
+const int time1S = 10; // 5 second
+const int time2S = 10; // 5 second
+const int time3S = 5; // 3 second
 unsigned int count = 0;
 
 ///
